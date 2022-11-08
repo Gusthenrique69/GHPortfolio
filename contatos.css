@@ -1,0 +1,13 @@
+body {
+	color:black;
+    background-color: grey;
+}
+
+div{
+	background-color: gray;
+	text-align: center;
+}
+
+td{
+	background-color: azure;
+}
